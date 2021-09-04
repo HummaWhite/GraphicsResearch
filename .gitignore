@@ -1,0 +1,7 @@
+*.exe
+*.png
+*.hdr
+*.o
+/.vscode/
+*/.vscode/
+*/test/
